@@ -1,11 +1,8 @@
-package com.tmb.driver.manager;
+package com.tmb.driver.manager.web.local;
 
-import com.tmb.config.ConfigFactory;
-import com.tmb.enums.BrowserType;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class ChromeManager {
     private ChromeManager(){}
