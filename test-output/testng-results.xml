@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T14:59:42 IST" name="Default suite" finished-at="2023-06-02T14:59:42 IST" duration-ms="171">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T14:59:42 IST" name="Default test" finished-at="2023-06-02T14:59:42 IST" duration-ms="171">
+      <class name="com.tmb.tests.DemoTest">
+        <test-method signature="testName()[pri:0, instance:com.tmb.tests.DemoTest@19976a65]" started-at="2023-06-02T14:59:42 IST" name="testName" finished-at="2023-06-02T14:59:42 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+      </class> <!-- com.tmb.tests.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

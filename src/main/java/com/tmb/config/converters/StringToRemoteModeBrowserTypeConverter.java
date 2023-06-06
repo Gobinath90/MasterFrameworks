@@ -1,7 +1,6 @@
 package com.tmb.config.converters;
 
 import com.tmb.enums.BrowserRemoteModeType;
-import com.tmb.enums.RunModeBrowserType;
 import org.aeonbits.owner.Converter;
 
 import java.lang.reflect.Method;
